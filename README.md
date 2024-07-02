@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+- I'm a engineer. both backend and frontend challenged.
+- I'm university student.
+
+# Skils
+
+## use often
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,docker" />
+
+## challenge
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,pytorch,docker" />
 
 <!--
 **tsu7kmii/tsu7kmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
