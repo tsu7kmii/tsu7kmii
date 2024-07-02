@@ -66,6 +66,11 @@
   - openai apiで会話できるwebアプリの作成
   - 日記の作成を補助する能動的プロンプトの作成 
 
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+</div>
 
 <!--
 **tsu7kmii/tsu7kmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
