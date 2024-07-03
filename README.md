@@ -20,7 +20,8 @@
 
 ## local llm (team)
 ### 2024/5 ~
-機密情報(IP,ドメイン,規程など)を扱える学習モデルを作成し組織内運用(ドメインの運用,矛盾の洗い出し)を目標に継続事前学習する
+機密情報(IP,ドメイン,規程など)を扱える学習モデルを作成し組織内運用(ドメインの運用,矛盾の洗い出し)を目標に継続事前学習する  
+市販スペックで学習から運用まで出来るか検証(RTX 4060 Ti)
 - WSL2 docker python torch megatron deepspeed Megatron-DeepSpeed transformer 
 - use bace model
   - 2024/5 ~
