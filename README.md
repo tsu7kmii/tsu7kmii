@@ -13,7 +13,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,php,nodejs" />
 
 ---
-
+<!--
 # Work on
 
 ### NOWING
@@ -68,4 +68,4 @@
   - openai apiで会話できるwebアプリの作成
   - 日記の作成を補助する能動的プロンプトの作成 
 
-
+-->
