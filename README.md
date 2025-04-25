@@ -3,6 +3,7 @@
 - I'm a engineer. both backend and frontend challenged.
 - I'm university student (2022-2026).
 
+<!--
 # Skils
 
 ## Use often
@@ -13,7 +14,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,php,nodejs" />
 
 ---
-<!--
+
 # Work on
 
 ### NOWING
