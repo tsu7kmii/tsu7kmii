@@ -2,6 +2,7 @@
 # Hi there 👋
 - I'm a engineer. both backend and frontend challenged.
 - I'm university student (2022-2026).
+- master (2026-2028)
 
 <!--
 # Skils
