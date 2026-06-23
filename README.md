@@ -1,7 +1,30 @@
-### update 2024/7/2
-# Hi there 👋
+### update 2026/6/23
+# Hi 
 - I'm university student (2022-2026).
 - master (2026-2028)
+
+
+# repositories
+
+### [Copied-YuminVillageMinecraftMod ](https://github.com/tsu7kmii/Copied-YuminVillageMinecraftMod)
+チーム開発のマインクラフトModのコピー
+
+### [record](https://github.com/tsu7kmii/record)
+ - チーム開発等支援の進捗管理やアンケート機能、認証機能をつけたWebアプリ
+ - 一時期Azureを使用して公開していました（現在非公開）
+ - 個人開発
+ - フロント(React), サーバー(java spring), DB(MySQL), dev(Docker)
+
+
+### [team_management](https://github.com/tsu7kmii/team_management)
+- チーム開発支援の進捗管理をメインにした認証機能つきのWebアプリ
+- ドキュメント整備に力をいれた
+- 個人開発
+- フロント(Thymeleaf), サーバー(java spring), DB(MySQL), dev(Docker)
+
+
+### [team_management_doc](https://github.com/tsu7kmii/team_management_doc)
+ - 上記team_managementのドキュメント用レポジトリ
 
 <!--
 # Skils
