@@ -5,9 +5,10 @@
 
 
 # repositories
-
+<!--
 ### [Copied-YuminVillageMinecraftMod ](https://github.com/tsu7kmii/Copied-YuminVillageMinecraftMod)
 チーム開発のマインクラフトModのコピー
+-->
 
 ### [record](https://github.com/tsu7kmii/record)
  - チーム開発等支援の進捗管理やアンケート機能、認証機能をつけたWebアプリ
