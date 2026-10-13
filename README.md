@@ -4,6 +4,10 @@
 - master (2026-2028)
 
 
+## my Qiita
+https://qiita.com/kmiibfw
+
+
 # repositories
 
 ### [Copied-YuminVillageMinecraftMod ](https://github.com/tsu7kmii/Copied-YuminVillageMinecraftMod)
